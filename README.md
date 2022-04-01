@@ -1,0 +1,5 @@
+[![CI](https://github.com/37-51/M1_Toll_Util/actions/workflows/main.yml/badge.svg)](https://github.com/37-51/M1_Toll_Util/actions/workflows/main.yml)
+[![cppcheck-action](https://github.com/37-51/M1_Toll_Util/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/37-51/M1_Toll_Util/actions/workflows/cppcheck.yml)
+[![Unit Testing - Unity](https://github.com/37-51/M1_Toll_Util/actions/workflows/unityy.yml/badge.svg)](https://github.com/37-51/M1_Toll_Util/actions/workflows/unityy.yml)
+[![C/C++ CI](https://github.com/37-51/M1_Toll_Util/actions/workflows/c-build.yml/badge.svg)](https://github.com/37-51/M1_Toll_Util/actions/workflows/c-build.yml)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/2e0f4c26d2e24ca2894d77ae6c8b9cc5)](https://www.codacy.com/gh/37-51/M1_Toll_Util/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=37-51/M1_Toll_Util&amp;utm_campaign=Badge_Grade)
